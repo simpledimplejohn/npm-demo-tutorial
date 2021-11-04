@@ -1,7 +1,7 @@
 # __Creating a basic Node.js setup__
 
 ### __Description__
-Node Package Manager NPM setup
+Node Package Manager NPM setup from the Coding With Mosh Node.js tutorial.
 
 ### __Instructions For Building This Setup__
 1. Install/update node with homebrew
